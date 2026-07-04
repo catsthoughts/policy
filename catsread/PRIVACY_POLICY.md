@@ -55,4 +55,4 @@ If this policy changes, we will update the "Last updated" date. Since the app do
 
 If you have questions about this privacy policy, please contact us at:
 
-catsread@example.com
+support-catsread@catsthoughts.com
